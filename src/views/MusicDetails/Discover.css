@@ -1,0 +1,36 @@
+.el-main {
+  padding: 0 !important;
+}
+
+.el-table th>.cell {
+  font-size: 14px !important;
+}
+
+.el-table .cell {
+  font-size: 14px !important;
+}
+
+.el-table__row td:nth-child(3) .cell {
+  color: rgb(128, 128, 128) !important;
+}
+
+.el-table__row td:nth-child(4) .cell {
+  color: rgb(128, 128, 128) !important;
+}
+
+.el-table .cell {
+  color: rgb(36, 36, 36) !important;
+}
+/* 加载 */
+.el-icon-loading:before {
+  color: black;
+}
+
+.el-loading-spinner .el-loading-text {
+  color: black;
+}
+/* 喇叭 */
+.icon-yinliang:before {
+  content: "\e698";
+  font-size: 16px;
+}

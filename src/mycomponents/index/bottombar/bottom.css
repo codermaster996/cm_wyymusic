@@ -1,0 +1,10 @@
+.el-drawer.ltr,
+.el-drawer.rtl,
+.el-drawer__container {
+    height: calc(80vh - -79px) !important;
+}
+
+.el-slider__button-wrapper .el-tooltip,
+.el-slider__button-wrapper:after {
+  margin-top: 13px;
+}

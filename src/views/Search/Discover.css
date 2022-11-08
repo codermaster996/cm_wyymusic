@@ -1,0 +1,17 @@
+
+.el-table .cell {
+  font-size: 14px !important;
+}
+
+.el-table__row td:nth-child(1) .cell {
+  color: rgb(36, 36, 36)!important;
+}
+
+.el-table__row td:nth-child(2) .cell {
+  color: rgb(36, 36, 36)!important;
+}
+
+.el-table__row td:nth-child(3) .cell {
+  color: rgb(128, 128, 128)!important;
+}
+
